@@ -91,6 +91,8 @@ header nav a:last-child {
 h1{
     font-style: inherit;
     font-size: 75px;
+    text-decoration: none;
+    color:white;
 }
 #footer {
     position: fixed; /* Фиксированное положение */

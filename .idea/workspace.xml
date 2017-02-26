@@ -33,10 +33,10 @@
       <file leaf-file-name="More.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/More.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+            <state relative-caret-position="170">
+              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
               <folding>
-                <element signature="e#415#421#0" expanded="true" />
+                <element signature="e#411#417#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,10 +45,10 @@
       <file leaf-file-name="Quizzes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Quizzes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+            <state relative-caret-position="170">
+              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
               <folding>
-                <element signature="e#409#415#0" expanded="true" />
+                <element signature="e#405#411#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,10 +57,10 @@
       <file leaf-file-name="Contacts.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Contacts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="52" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+            <state relative-caret-position="170">
+              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
               <folding>
-                <element signature="e#777#783#0" expanded="true" />
+                <element signature="e#772#778#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,11 +100,11 @@
         <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/js/jquery.ui.totop.min.js" />
         <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/More.html" />
-        <option value="$PROJECT_DIR$/Quizzes.html" />
-        <option value="$PROJECT_DIR$/Contacts.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/Contacts.html" />
+        <option value="$PROJECT_DIR$/Quizzes.html" />
+        <option value="$PROJECT_DIR$/More.html" />
       </list>
     </option>
   </component>
@@ -257,15 +257,15 @@
       <workItem from="1488044070890" duration="7680000" />
       <workItem from="1488101423465" duration="1122000" />
       <workItem from="1488104036719" duration="599000" />
-      <workItem from="1488115671778" duration="4515000" />
+      <workItem from="1488115671778" duration="4694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49930000" />
+    <option name="totallyTimeSpent" value="50109000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1040" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="1040" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -317,7 +317,7 @@
         <state relative-caret-position="289">
           <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
           <folding>
-            <element signature="e#415#421#0" expanded="true" />
+            <element signature="e#411#417#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -327,7 +327,7 @@
         <state relative-caret-position="306">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="113" />
           <folding>
-            <element signature="e#777#783#0" expanded="true" />
+            <element signature="e#772#778#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -337,7 +337,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#409#415#0" expanded="true" />
+            <element signature="e#405#411#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -358,7 +358,7 @@
         <state relative-caret-position="289">
           <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
           <folding>
-            <element signature="e#415#421#0" expanded="true" />
+            <element signature="e#411#417#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -368,7 +368,7 @@
         <state relative-caret-position="306">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="113" />
           <folding>
-            <element signature="e#777#783#0" expanded="true" />
+            <element signature="e#772#778#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -378,7 +378,7 @@
         <state relative-caret-position="289">
           <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
           <folding>
-            <element signature="e#409#415#0" expanded="true" />
+            <element signature="e#405#411#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -399,7 +399,7 @@
         <state relative-caret-position="170">
           <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
-            <element signature="e#415#421#0" expanded="true" />
+            <element signature="e#411#417#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -409,7 +409,7 @@
         <state relative-caret-position="816">
           <caret line="48" column="60" lean-forward="false" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="60" />
           <folding>
-            <element signature="e#777#783#0" expanded="true" />
+            <element signature="e#772#778#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -419,7 +419,7 @@
         <state relative-caret-position="170">
           <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
-            <element signature="e#409#415#0" expanded="true" />
+            <element signature="e#405#411#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -440,7 +440,7 @@
         <state relative-caret-position="170">
           <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
-            <element signature="e#415#421#0" expanded="true" />
+            <element signature="e#411#417#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -450,7 +450,7 @@
         <state relative-caret-position="816">
           <caret line="48" column="60" lean-forward="false" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="60" />
           <folding>
-            <element signature="e#777#783#0" expanded="true" />
+            <element signature="e#772#778#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -460,7 +460,7 @@
         <state relative-caret-position="170">
           <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
-            <element signature="e#409#415#0" expanded="true" />
+            <element signature="e#405#411#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -481,7 +481,7 @@
         <state relative-caret-position="170">
           <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
-            <element signature="e#415#421#0" expanded="true" />
+            <element signature="e#411#417#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -491,7 +491,7 @@
         <state relative-caret-position="816">
           <caret line="48" column="60" lean-forward="false" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="60" />
           <folding>
-            <element signature="e#777#783#0" expanded="true" />
+            <element signature="e#772#778#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -501,7 +501,7 @@
         <state relative-caret-position="170">
           <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
-            <element signature="e#409#415#0" expanded="true" />
+            <element signature="e#405#411#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -522,7 +522,7 @@
         <state relative-caret-position="255">
           <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
           <folding>
-            <element signature="e#415#421#0" expanded="true" />
+            <element signature="e#411#417#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -532,7 +532,7 @@
         <state relative-caret-position="391">
           <caret line="23" column="310" lean-forward="false" selection-start-line="23" selection-start-column="310" selection-end-line="23" selection-end-column="310" />
           <folding>
-            <element signature="e#777#783#0" expanded="true" />
+            <element signature="e#772#778#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -542,7 +542,7 @@
         <state relative-caret-position="255">
           <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
           <folding>
-            <element signature="e#409#415#0" expanded="true" />
+            <element signature="e#405#411#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -598,41 +598,41 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/jquery.bxslider.css" />
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="91" column="24" lean-forward="false" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#772#778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Quizzes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        <state relative-caret-position="170">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding>
-            <element signature="e#409#415#0" expanded="true" />
+            <element signature="e#405#411#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/More.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        <state relative-caret-position="170">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding>
-            <element signature="e#415#421#0" expanded="true" />
+            <element signature="e#411#417#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="52" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-          <folding>
-            <element signature="e#777#783#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-552">
-          <caret line="91" column="24" lean-forward="false" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>

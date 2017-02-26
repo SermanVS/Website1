@@ -1,0 +1,170 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700italic);
+.content1{
+    padding-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-style: normal;
+ }
+.content1_2{
+    padding-top: 100px;
+}
+.content1_3{
+    padding-top: 150px;
+}
+.content1_4{
+    padding-top:330px;
+}
+* { padding: 0; margin: 0; }
+nav a {font-family: 'Lato', sans-serif, inherit; text-transform: uppercase; letter-spacing: 1px;}
+
+header {
+    text-align: justify;
+    height: 8em;
+    padding: 2em 10%;
+    background: #2c3e50;
+    color: white;
+    letter-spacing: 1px;
+}
+header nav a:hover {
+    color:#FA8072;/*добавляем эффект при наведении*/
+}
+header h1,
+header nav{
+    display: inline-block;
+}
+header::after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+header > div,
+header > div::before,
+header nav,
+header > div h1 {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+}
+
+header > div {
+    height: 100%;
+}
+
+header > div::before {
+    content: '';
+    height: 100%;
+}
+
+header > div h1 {
+    font-size: 3em;
+    font-style: italic;
+}
+
+header nav a {
+    padding: 0 0.6em;
+    white-space: nowrap;
+    color: white;
+    text-decoration: none;
+}
+
+header nav a:last-child {
+    padding-right: 0;
+}
+
+@media screen and (max-width: 720px){
+
+    header {
+        height: auto;
+    }
+
+    header > div,
+    header > div h1,
+    header nav {
+        height: auto;
+        width: auto;
+        display: block;
+        text-align: center;
+    }
+
+}
+h1{
+    font-style: inherit;
+    font-size: 75px;
+}
+#footer {
+    position: fixed; /* Фиксированное положение */
+    left: 0px; bottom: 0px; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background: #2c3e50; /* Цвет фона */
+    color: #ffffff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+}
+.Mainpage{
+    padding-left: 200px;
+    padding-right: 200px;
+}* {
+     margin: 0;
+     padding: 0;
+ }
+html,
+body {
+    height: 100%;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.content {
+    flex: 1 0 auto;
+}
+.footer {
+    flex: 0 0 auto;
+}
+#toTop {
+    display:none;
+    text-decoration:none;
+    position:fixed;
+    bottom:10px;
+    right:10px;
+    overflow:hidden;
+    width:51px;
+    height:51px;
+    border:none;
+    text-indent:100%;
+    background:url(images/ui.totop.png) no-repeat left top;
+}
+
+#toTopHover {
+    background:url(images/ui.totop.png) no-repeat left -51px;
+    width:51px;
+    height:51px;
+    display:block;
+    overflow:hidden;
+    float:left;
+    opacity: 0;
+    -moz-opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+#toTop:active, #toTop:focus {
+    outline:none;
+}
+
+.mainText1{
+    display: inline-block;
+    position: absolute;
+}
+.mainText1 span{
+    display: inline-block;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    align-items: center;
+    color: #ffffff;
+    font-size:30px;
+    font-style: italic;
+
+    padding: 10px 30px;
+}

@@ -27,6 +27,7 @@ header {
 }
 header nav a:hover {
     color:#FA8072;/*добавляем эффект при наведении*/
+    text-decoration: none;
 }
 header h1,
 header nav{

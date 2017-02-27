@@ -169,3 +169,12 @@ body {
 
     padding: 10px 30px;
 }
+#mainText{
+    text-align: center;
+    padding-left: 200px;
+    padding-right:  200px;
+    font-style: inherit;
+    font-family: Lato, serif;
+    font-size: 3em;
+
+}

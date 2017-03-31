@@ -1,8 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700italic);
-
 .col-sm-3{
     display: inline-block;
     background: #2c3e50;
+}
+.item {
+    margin-bottom: 25px;
 }
 .col-sm-12 h1 a{
     text-decoration: none;
@@ -10,6 +12,7 @@
     font-family: Lato, sans-serif;
     font-style: italic;
     font-size: 60px;
+    padding-right: 8%;
 }
 .col-sm-12 h1 a:hover{
     text-decoration:none;
@@ -27,6 +30,7 @@
     margin: auto;
     letter-spacing: 1px;
     text-transform: uppercase;
+    padding-left: 50px;
 }
 .col-sm-3 a:hover{
     color: salmon;
@@ -38,6 +42,7 @@
 }
 .col-sm-12 {
     background: #2c3e50;
+    text-align: center;
 }
 .col-sm-8c{
     color: black;

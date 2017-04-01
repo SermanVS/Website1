@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="icon" href="css/images/favicon.ico" type="image/x-icon" />
-    <link rel="shortcut icon" href="css/images/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="css/images/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="css/images/favicon.ico" type="image/x-icon"/>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <title>Games</title>
 </head>
@@ -17,7 +17,7 @@
 <script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-sm-12">
+        <div class="col-sm-12 col-lg-12 col-md-12 col-xs-12">
             <h1>
                 <a href="index.html">Sfoxie</a>
             </h1>
@@ -29,20 +29,30 @@
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3"><a href="More.html">More</a></div>
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3"><a href="Contacts.html">Contacts</a></div>
     </div>
-    <div class="row">
-        <div class="col-md-6 item">
-        <a href="Content/Analyze.html" data-toggle="" data-target="">
-            <img class="img-responsive" src="css/images/Analyze.png" alt="Analyze">
-        </a>
+    <div class="row row-flex">
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <div class="col-md-4 item">
+                    <a href="Content/Analyze.html" data-toggle="" data-target="">
+                        <img class="img-responsive" src="css/images/Analyze2.png" alt="Analyze">
+                    </a>
+                </div>
+                <div class="col-md-4 item">
+                    <a href="Content/Particles.html" data-toggle="" data-target="">
+                        <img class="img-responsive" src="css/images/Particles1.png" alt="Particles">
+                    </a>
+                </div>
+                <div class="col-md-4 item">
+                    <a href="Content/Analyze.html" data-toggle="" data-target="">
+                        <img class="img-responsive" src="css/images/Analyze2.png" alt="Analyze">
+                    </a>
+                </div>
+            </div>
         </div>
-
-        <div class="col-md-6">
-
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-8"></div>
     </div>
 </div>
+<script type="javascript" src="js/setEqualHeight.js">
+    setEqualHeight('.row-flex');
+</script>
 </body>
 </html>

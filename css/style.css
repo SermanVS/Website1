@@ -4,7 +4,31 @@
     background: #2c3e50;
 }
 .item {
-    margin-bottom: 25px;
+    margin-top: 6%;
+}
+.backbutton{
+    margin-top: -15px;
+    float: right;
+}
+.backbutton:hover{
+    box-shadow: 0 0 5px 2px red;
+}
+.backtext{
+    margin-top: 15px;
+    text-align: center;
+}
+.backtext a{
+    font-family:Lato, sans-serif;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+.backtext a:hover{
+    text-decoration: none;
+    color: red;
+}
+.row-flex{
+    display: inline-block;
 }
 .col-sm-12 h1 a{
     text-decoration: none;
@@ -50,7 +74,4 @@
     font-style: inherit;
     font-family: Lato, sans-serif;
     font-size: 24px;
-}
-nav{
-    display: inline-block;
 }

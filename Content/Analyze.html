@@ -15,6 +15,7 @@
 <!-- UItoTop plugin -->
 <script src="../js/jquery.ui.totop.js" type="text/javascript"></script>
 <script src="../js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="../js/analyze.js"></script>
 <div class="container-fluid">
     <div class="row">
         <div class="col-sm-12">
@@ -30,14 +31,44 @@
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3"><a href="../Contacts.html">Contacts</a></div>
     </div>
 </div>
-<script>
-    alert('Анализ прошёл успешно! У вас 47 хромосом!');
-</script>
-<p class="backtext1">
-    <button class="backbutton" onclick="window.location.href='../Quizzes.html'">
-        <img src="../css/images/back.png" alt="Back" width="60" vspace="5" hspace="5"/>
-    </button>
-    <a href="../Quizzes.html">Get back to Games!</a>
+<p class="inp"><strong>Enter your string</strong></p>
+<p class="inp">
+    <input type="text" id="txt">
 </p>
+<!--<script>
+    document.getElementsByTagName('input')[0].onkeypress = function (e) {
+
+        e = e || event;
+
+        if (e.ctrlKey || e.altKey || e.metaKey) return;
+
+        var chr = getChar(e);
+
+        // с null надо осторожно в неравенствах, т.к. например null >= '0' => true!
+        // на всякий случай лучше вынести проверку chr == null отдельно
+        if (chr == null) return;
+
+        if (chr < '0' || chr > '9') {
+            return false;
+        }
+
+    }
+    function getChar(event) {
+        if (event.which == null) {
+            if (event.keyCode < 32) return null;
+            return String.fromCharCode(event.keyCode) // IE
+        }
+
+        if (event.which != 0 && event.charCode != 0) {
+            if (event.which < 32) return null;
+            return String.fromCharCode(event.which) // остальные
+        }
+
+        return null; // специальная клавиша
+    }
+</script>-->
+
+<button class="AnalButt" onclick="Analyze(document.getElementById('txt').value);">Analyze!</button>
+
 </body>
 </html>

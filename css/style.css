@@ -13,6 +13,29 @@
 .backtext1{
     margin-top: 20px;
 }
+.inp{
+    text-align: center;
+}
+.AnalButt{
+    margin-left: 45.5%;
+    background: #2c3e50;
+    display: inline-block;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    transition: 0.2s;
+}
+.AnalButt:hover{
+    background: salmon;
+}
+.AnalButt:active{
+    background: white;
+}
 
 .backtext1 a{
     font-family:Lato, sans-serif;

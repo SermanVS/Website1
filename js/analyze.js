@@ -4,7 +4,6 @@
 var words=[];
 var g=0;
 function Analyze(a) {
-    //Mne X let.
     var b='';
     var k=0;
 
@@ -31,7 +30,8 @@ function Analyze(a) {
 }
 function Compare(c) {
     var p=parseInt(c,10);
+    p=p%10;
     if (p==1){words[g]='год';}
     else if ((p>1)&&(p<5)){words[g]='года';}
-    else if(p>5){words[g]='лет';}
+    else if(p>4){words[g]='лет';}
 }

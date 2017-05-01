@@ -18,10 +18,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Analyze.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Analyze.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Content/Analyze.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
+            <state relative-caret-position="298">
               <caret line="33" column="40" lean-forward="false" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
               <folding>
                 <marker date="1493649372949" expanded="false" signature="1998:2382" ph="{...}" />
@@ -32,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="analyze.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="analyze.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/analyze.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+            <state relative-caret-position="561">
+              <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
               <folding>
                 <element signature="e#0#43#0" expanded="false" />
               </folding>
@@ -95,8 +95,8 @@
         <option value="$PROJECT_DIR$/Content/Particles.html" />
         <option value="$PROJECT_DIR$/js/e.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/js/analyze.js" />
         <option value="$PROJECT_DIR$/Content/Analyze.html" />
+        <option value="$PROJECT_DIR$/js/analyze.js" />
       </list>
     </option>
   </component>
@@ -349,12 +349,12 @@
       <workItem from="1490989288107" duration="3393000" />
       <workItem from="1491046514134" duration="17885000" />
       <workItem from="1492010712508" duration="54000" />
-      <workItem from="1493643590111" duration="5783000" />
+      <workItem from="1493643590111" duration="6375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105677000" />
+    <option name="totallyTimeSpent" value="106269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1040" extended-state="7" />
@@ -668,24 +668,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/analyze.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Content/Analyze.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
+        <state relative-caret-position="298">
           <caret line="33" column="40" lean-forward="false" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
           <folding>
             <marker date="1493649372949" expanded="false" signature="1998:2382" ph="{...}" />
             <marker date="1493649372949" expanded="false" signature="2033:2153" ph="{...}" />
             <marker date="1493649372949" expanded="false" signature="2208:2331" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/analyze.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
           </folding>
         </state>
       </provider>

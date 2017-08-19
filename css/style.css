@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700italic);
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400&subset=latin-ext');
 .col-sm-3{
     display: inline-block;
     background: #2c3e50;
@@ -111,4 +112,84 @@
     font-style: inherit;
     font-family: Lato, sans-serif;
     font-size: 24px;
+}
+.boostCS{
+    padding-top: 150px;
+    color: Black;
+    text-align: center;
+    font-style: inherit;
+    font-family: Lato, sans-serif;
+    font-size: 50px;
+}
+.sliderA {
+    width: 100%;
+    height: 790px;
+    border: 1px solid #888;
+    position: relative;
+    text-align: center;
+}
+.sliderA > input {
+    display: none;
+}
+.sliderA > input + label {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border-radius: 8px;
+    background: rgba(250, 250, 250, 0.8);
+    border: 2px solid rgba(190, 190, 190, 0.8);
+    cursor: pointer;
+
+    z-index: 100;
+    position: relative;
+
+    margin-right: 4px;
+    top: 90%;
+
+    transition: background 0.8s ease-out 0s;
+}
+
+.sliderA > input + label:hover {
+    background: rgba(220, 220, 220, 0.8);
+}
+
+.sliderA > input:checked + label {
+    background: rgba(90, 90, 90, 0.9);
+}
+.sliderA > div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+}
+.sliderA > div {
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.8s ease-out 0.1s, visibility 0.1s ease-out 0.9s;
+}
+.sliderA > input:checked + label + div {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.8s ease-out 0.1s, visibility 0.1s ease-out 0s;
+}
+.sliderA > div > p {
+    position: absolute;
+    top: 300px;
+    left: 0px;
+    right: 0px;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+}
+.sliderA img{
+    height:790px;
+    width: 100%;
+}
+.Name{
+    color: Red;
+    font-family: Quicksand, sans-serif;
 }
